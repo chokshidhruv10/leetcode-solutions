@@ -76,6 +76,7 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2769-find-the-maximum-achievable-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Geometry
 |  |
 | ------- |
