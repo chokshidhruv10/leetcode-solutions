@@ -77,6 +77,7 @@ For every problem, I try to understand:
 | ------- |
 | [0258-add-digits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0258-add-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Geometry
 |  |
@@ -90,4 +91,12 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
