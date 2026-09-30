@@ -75,6 +75,7 @@ For every problem, I try to understand:
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0258-add-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
