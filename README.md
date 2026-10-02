@@ -77,6 +77,7 @@ For every problem, I try to understand:
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
