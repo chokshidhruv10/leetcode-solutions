@@ -101,4 +101,8 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
