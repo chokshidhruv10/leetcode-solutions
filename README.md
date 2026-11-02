@@ -76,6 +76,7 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0263-ugly-number) |
 | [1103-distribute-candies-to-people](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
@@ -104,6 +105,7 @@ For every problem, I try to understand:
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -113,4 +115,12 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
