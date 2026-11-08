@@ -83,6 +83,7 @@ For every problem, I try to understand:
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -119,8 +120,13 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0202-happy-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 <!---LeetCode Topics End-->
