@@ -129,4 +129,12 @@ For every problem, I try to understand:
 |  |
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
