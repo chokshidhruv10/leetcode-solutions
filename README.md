@@ -90,6 +90,7 @@ For every problem, I try to understand:
 | [2396-strictly-palindromic-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3360-stone-removal-game](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
 |  |
@@ -101,6 +102,7 @@ For every problem, I try to understand:
 | [0258-add-digits](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3360-stone-removal-game](https://github.com/chokshidhruv10/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
